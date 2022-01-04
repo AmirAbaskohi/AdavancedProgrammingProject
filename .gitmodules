@@ -1,0 +1,9 @@
+[submodule "Simple-Interpretor-using-cpp"]
+	path = Simple-Interpretor-using-cpp
+	url = https://github.com/AmirAbaskohi/Simple-Interpretor-using-cpp
+[submodule "FilmNetwork"]
+	path = FilmNetwork
+	url = https://github.com/AmirAbaskohi/FilmNetwork
+[submodule "SuperMario"]
+	path = SuperMario
+	url = https://github.com/AmirAbaskohi/SuperMario
